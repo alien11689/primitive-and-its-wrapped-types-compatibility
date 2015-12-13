@@ -1,7 +1,7 @@
 Primitive and its wrapped types compatibility
 =============================================
 
-This is source code for blog post: TODO
+This is source code for blog post: http://przybyszd.blogspot.com/2015/12/primitive-and-its-wrapped-types.html
 
 Usage
 -----
