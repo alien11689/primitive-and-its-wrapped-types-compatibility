@@ -8,4 +8,6 @@ public class Dep {
     public void setF1(int f1){
         this.f1 = f1;
     }
+
+    // other fields and methods omitted 
 }
